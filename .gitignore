@@ -1,0 +1,18 @@
+# Streamlit cache
+.streamlit/
+
+# Environment-specific files
+.venv/
+env/
+
+# Log and temp files
+*.log
+*.tmp
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Python bytecode
+__pycache__/
+*.py[cod]
